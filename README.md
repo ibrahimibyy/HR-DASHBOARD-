@@ -69,7 +69,7 @@ Connect to your HR dataset or use the provided sample dataset.
 Explore interactive visuals on headcount, salaries, leave balances, and more.
 
 # Dataset & Project Files
-📂 Dataset Link (Include dataset link if available)
+📂 Dataset [dataset](hr-data.xlsx)
 
 📊 Dashboard Demo [dashboard](https://github.com/ibrahimibyy/HR-DASHBOARD-/blob/f4282c9681e8e6468fd9c1e93756ec15380381e9/HR%20DASHBOARD.png)
 
