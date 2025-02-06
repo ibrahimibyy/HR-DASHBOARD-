@@ -71,7 +71,7 @@ Explore interactive visuals on headcount, salaries, leave balances, and more.
 # Dataset & Project Files
 📂 Dataset Link (Include dataset link if available)
 
-📊 Dashboard Demo [dashboard ](#https://github.com/ibrahimibyy/HR-DASHBOARD-/blob/f4282c9681e8e6468fd9c1e93756ec15380381e9/HR%20DASHBOARD.png)
+📊 Dashboard Demo [dashboard ](https://github.com/ibrahimibyy/HR-DASHBOARD-/blob/f4282c9681e8e6468fd9c1e93756ec15380381e9/HR%20DASHBOARD.png)
 
 # Conclusion
 This dashboard serves as a powerful tool for HR professionals, enabling better workforce planning, salary optimization, and improved employee well-being. By leveraging data analytics, companies can make informed decisions that enhance productivity, engagement, and workplace satisfaction.
